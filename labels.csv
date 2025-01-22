@@ -1,0 +1,44 @@
+ClassId,Name
+0,Hız limiti (20 km/s)
+1,Hız limiti (30 km/s)
+2,Hız limiti (50 km/s)
+3,Hız limiti (60 km/s)
+4,Hız limiti (70 km/s)
+5,Hız limiti (80 km/s)
+6,Hız limiti sonu (80 km/s)
+7,Hız limiti (100 km/s)
+8,Hız limiti (120 km/s)
+9,Geçiş yasak
+10,3.5 ton üzeri araçlar için geçiş yasak
+11,Bir sonraki kavşakta geçiş önceliği
+12,Öncelikli yol
+13,Durakla ve yol ver
+14,Dur
+15,Tüm araçlar için giriş yasak
+16,3.5 ton üzeri araçlar için giriş yasak
+17,Giriş yasak
+18,Genel dikkat
+19,Sola tehlikeli viraj
+20,Sağa tehlikeli viraj
+21,Çifte viraj
+22,Bozuk yol
+23,Kaygan yol
+24,Sağdan yol daralıyor
+25,Yol çalışması
+26,Trafik ışıkları
+27,Yaya geçidi
+28,Çocuk geçidi
+29,Bisiklet geçidi
+30,Buzlanma / kar tehlikesi
+31,Yaban hayvanı geçidi
+32,Tüm hız ve geçiş kısıtlamalarının sonu
+33,İleri sağa dönüş
+34,İleri sola dönüş
+35,Sadece ileri
+36,Sadece ileri veya sağa
+37,Sadece ileri veya sola
+38,Sağdan git
+39,Soldan git
+40,Zorunlu dönel kavşak
+41,Geçiş yasak sonu
+42,3.5 ton üzeri araçlar için geçiş yasağı sonu
